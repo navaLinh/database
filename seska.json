@@ -2,7 +2,8 @@
   "data": [
     {
       "nomor": "6282131174813",
-      "userName": "lynx"
+      "userName": "lynx",
+      "status": true
     },
     {
       "nomor": "6289699309754",
