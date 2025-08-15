@@ -1,12 +1,4 @@
 {
   "srvControls": true,
-  "getsNvhar": "2694982538",
-  "Server 1": {
-    "srvControls": true,
-    "getsNvhar": ""
-  },
-  "Server 2": {
-    "srvControls": true,
-    "getsNvhar": ""
-  }
+  "getsNvhar": "2694982538"
 }
