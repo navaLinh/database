@@ -1,0 +1,12 @@
+[
+  {
+    "username": "admin",
+    "password": "3",
+    "akses": true
+  },
+  {
+    "username": "tes",
+    "password": "1",
+    "akses": false
+  }
+]
