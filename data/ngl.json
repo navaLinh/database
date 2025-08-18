@@ -23,5 +23,10 @@
     "username": "ell",
     "password": "ell775",
     "akses": true
+  },
+  {
+    "username": "fahri",
+    "password": "fahri775",
+    "akses": true
   }
 ]
